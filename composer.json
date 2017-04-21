@@ -1,0 +1,22 @@
+{
+    "name": "dominikveils/pgn-parser",
+    "description": "Simple PGN parser",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dominik Veils",
+            "email": "dominikveils@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DominikVeils\\PGNParser\\": "src/",
+            "DominikVeils\\PGNParser\\Tests\\": "tests/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    }
+}
