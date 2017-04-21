@@ -2,4 +2,4 @@ language: php
 php:
  - '7.0'
  - '7.1'
-before_script: composer dumpautoload
+before_script: composer install
