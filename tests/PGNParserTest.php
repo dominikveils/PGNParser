@@ -48,8 +48,6 @@ class PGNParserTest extends TestCase
             $this->assertEquals($expected[$k]['moves_count'], $game->getMoves()->count());
             $this->assertEquals($expected[$k]['metadata_count'], count($game->getMetadata()));
         }
-        echo $games[0]->toJSON();
-        die;
     }
     
     /**
