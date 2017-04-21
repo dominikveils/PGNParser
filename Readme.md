@@ -1,4 +1,4 @@
-# PGNParser
+# PGNParser [![Build Status](https://travis-ci.org/dominikveils/PGNParser.svg?branch=master)](https://travis-ci.org/dominikveils/PGNParser)
 **PHP parser for PGN format**
 
 ## Install
