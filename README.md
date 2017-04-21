@@ -3,7 +3,7 @@
 
 ## Install
 ```bash
-$ composer require dominikveils\pgnparser
+$ composer require dominikveils/pgnparser
 ```
 ## Usage
 ```php
